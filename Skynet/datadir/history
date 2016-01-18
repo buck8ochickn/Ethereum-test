@@ -1,0 +1,35 @@
+cpuinfo
+gpuinfo
+--gpuinfo
+--help
+-h
+geth help
+-help
+-h
+--mine
+geth --mine
+geth --minethreads 4
+"alloc": { "0x1fb891f92eb557f4d688463d0d7c560552263b5a>": { "balance": "20000000000000000000" } }
+primary = eth.accounts[0];
+balance = web3.formWei(eth.getBalance(primary), "ether")
+Logging verbosity: 0-6 (0=silent, 1=error, 2=warn, 3=info, 4=core, 5=debug, 6=debug detail)
+geth Logging verbosity: 0-6 (0=silent, 1=error, 2=warn, 3=info, 4=core, 5=debug, 6=debug detail)
+Logging verbosity: 0-6 (0=silent, 1=error, 2=warn, 3=info, 4=core, 5=debug, 6=debug detail)
+geth Logging verbosity: 0-6 (0=silent, 1=error, 2=warn, 3=info, 4=core, 5=debug, 6=debug detail)
+--verbosity
+verbosity
+geth --verbosity
+help
+geth help
+--help
+-h
+--help
+geth --helpp
+geth --help
+help attch
+attach help
+help attach
+help
+account list
+ext
+git
